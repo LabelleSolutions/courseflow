@@ -1,0 +1,1 @@
+{\n  "name": "courseflow",\n  "version": "1.0.0",\n  "description": "A course management system",\n  "repository": {\n    "type": "git",\n    "url": "https://github.com/LabelleSolutions/courseflow.git"\n  },\n  "publishConfig": {\n    "registry": "https://npm.pkg.github.com/"\n  },\n  "author": "LabelleSolutions",\n  "license": "MIT"\n}
