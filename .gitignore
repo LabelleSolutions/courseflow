@@ -8,6 +8,11 @@
 *.cache
 hosting/.cache
 
+# Firebase App Hosting — keep apphosting.yaml and its variants tracked
+# (apphosting.yaml, apphosting.staging.yaml, apphosting.production.yaml, etc.)
+!apphosting.yaml
+!apphosting.*.yaml
+
 # Firebase Functions
 /functions/node_modules/
 /functions/.env
