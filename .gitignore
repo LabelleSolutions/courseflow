@@ -26,3 +26,12 @@ yarn-error.log*
 
 # Environment files (local configs)
 /.env.*
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Build output
+dist/
+build/
+.vite/
