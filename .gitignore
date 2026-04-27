@@ -26,6 +26,7 @@ yarn-error.log*
 
 # Environment files (local configs)
 /.env.*
+!/.env.example
 
 # Node.js dependencies
 node_modules/
