@@ -7,7 +7,7 @@ Mastery English Training advanced mobile-first interactive this build is set to 
 * Offline-first architecture concepts
 * Adventure progression map:
     * The Forge
-    * Storyteller’s Loop
+    * Storyteller's Loop
     * Cognitive Prominence
     * Grand Arena
     * Hall of Mastery
@@ -143,7 +143,7 @@ to include
 * Offline-first architecture concepts
 * Adventure progression map:
     * The Forge
-    * Storyteller’s Loop
+    * Storyteller's Loop
     * Cognitive Prominence
     * Grand Arena
     * Hall of Mastery
@@ -372,3 +372,15 @@ Exact Launch Pricing Engine
 * QR certification
 * Community world
 * Vietnam payments
+
+---
+
+## Firebase Integration
+
+CourseFlow uses Firebase for authentication (Google + Email/Password), Firestore database, and Storage.
+
+See [docs/firebase.md](docs/firebase.md) for full setup instructions, including:
+- Creating a Firebase project and Web App
+- Setting local environment variables
+- Enabling Auth providers (Google + Email/Password)
+- Firestore and Storage security rules
